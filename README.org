@@ -9,7 +9,7 @@
 論文投稿 5 件
 
 The 34th International Conference on Information Networking (ICOIN 2020)
-発表論文:10.1109/ICOIN48656.2020.9016603
+https://ieeexplore.ieee.org/document/9016603
 
 2019年 インターネットアーキテクチャ研究会
 https://www.ieice.org/ken/paper/20190905J1pm/
@@ -35,7 +35,10 @@ https://www.ieice.org/ken/paper/20190905J1pm/
 - Emacs Lisp
 - C 言語
 - HTML,CSS
+** その他
+- Qiita に Python で作成したゲームなどの説明を挙げてます
+https://qiita.com/taiseiyo11/items/f8096c5ff59fd20b523a
 
 * 習得スキル
 - AWS
-- heroku
+- heroku:https://taiseiyo.herokuapp.com/
