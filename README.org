@@ -9,19 +9,19 @@
 論文投稿 5 件
 
 - The 34th International Conference on Information Networking (ICOIN 2020)
-https://ieeexplore.ieee.org/document/9016603
+  - https://ieeexplore.ieee.org/document/9016603
 
 - 2019年 インターネットアーキテクチャ研究会
-https://www.ieice.org/ken/paper/20190905J1pm/
+  - https://www.ieice.org/ken/paper/20190905J1pm/
 
 - 2019年 電子情報通信学会 ソサイエティ大会
-https://www.ieice-taikai.jp/2019society/jpn/p_pro/0815_Bpro.pdf
+  - https://www.ieice-taikai.jp/2019society/jpn/p_pro/0815_Bpro.pdf
 
 - 2020年 電子情報通信学会総合大会
-https://www.ieice-taikai.jp/2020general/jpn/p_pro/0212_Bpro.pdf
+  - https://www.ieice-taikai.jp/2020general/jpn/p_pro/0212_Bpro.pdf
 
 - 2020年 電子情報通信学会 ソサイエティ大会
-https://www.ieice-taikai.jp/2020society/jpn/
+  - https://www.ieice-taikai.jp/2020society/jpn/
 
 
 * 受賞
