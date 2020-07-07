@@ -25,8 +25,8 @@
 
 
 * 受賞
-インターネットアーキテクチャ研究会学生研究奨励賞受賞
-https://www.ieice.org/ken/paper/20190905J1pm/
+- インターネットアーキテクチャ研究会学生研究奨励賞受賞
+  - https://www.ieice.org/ken/paper/20190905J1pm/
 
 
 * プログラムミングスキル
