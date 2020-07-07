@@ -36,7 +36,7 @@ https://www.ieice.org/ken/paper/20190905J1pm/
 - C 言語
 - HTML,CSS
 ** その他
-- Qiita に Python で作成したゲームなどの説明を挙げてます
+- Qiita に Python で作成したゲームを挙げてます
 https://qiita.com/taiseiyo11/items/f8096c5ff59fd20b523a
 
 * 習得スキル
