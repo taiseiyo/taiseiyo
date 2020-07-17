@@ -43,3 +43,5 @@
 - AWS
 - heroku
   - https://taiseiyo.herokuapp.com/
+    - user: taiseiyo
+    - password: FGxG9wei
