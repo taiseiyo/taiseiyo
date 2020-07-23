@@ -45,3 +45,9 @@
   - https://taiseiyo.herokuapp.com/
     - user: taiseiyo
     - password: welcome
+
+  - Image of Form
+    [[./figure/form.png]]
+
+  - Image of Contents of diary
+    [[./figure/diary.png]]
