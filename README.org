@@ -36,7 +36,7 @@
 - C 言語
 - HTML,CSS
 ** その他
-- Qiita に Python で作成したゲームを挙げてます
+- Qiita に Python のライブラリ(pygame)で作成したゲームを挙げてます
   - https://qiita.com/taiseiyo11/items/f8096c5ff59fd20b523a
 
 * 習得スキル
