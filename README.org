@@ -46,7 +46,6 @@
     - user: taiseiyo
     - password: welcome
 
-  (画像は Repositories から見れます)
   - Image of Form
     [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/form.png]]
 
