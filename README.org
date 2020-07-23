@@ -46,8 +46,10 @@
     - user: taiseiyo
     - password: welcome
 
+  (画像は Repositories から見れます)
   - Image of Form
     [[./figure/form.png]]
 
   - Image of Contents of diary
     [[./figure/diary.png]]
+
