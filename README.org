@@ -35,8 +35,8 @@
 - HTML,CSS
 ** その他
 - Qiita に Python で作成したゲームや Web アプリを挙げてます
-  - https://qiita.com/taiseiyo11/items/f8096c5ff59fd20b523a
-  - https://qiita.com/taiseiyo11/items/48c42e25fbd29071ec46
+  - [[https://qiita.com/taiseiyo11/items/f8096c5ff59fd20b523a][pygame でビンゴゲームを作ってみた]]
+  - [[https://qiita.com/taiseiyo11/items/48c42e25fbd29071ec46][Django で web アプリのフォームを作ってみた]]
 
 * 習得スキル
 - AWS
