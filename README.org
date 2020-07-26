@@ -41,7 +41,7 @@
 * 習得スキル
 - AWS
 - heroku
-  - https://taiseiyo.herokuapp.com/
+  - [[https://taiseiyo.herokuapp.com/][web アプリをデプロイして公開してます]]
     - user: taiseiyo
     - password: welcome
 
