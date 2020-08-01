@@ -47,6 +47,5 @@
 
   - Image of Form
     [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/form.png]]
-  # - Image of Contents of diary
-  #   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/diary.png]]
+    [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/register.png]]
     
