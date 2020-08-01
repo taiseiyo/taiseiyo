@@ -1,0 +1,52 @@
+* 個人データ
+- ID : taiseiyo
+- 職業 : 学生
+- 大学名 : 関西学院大学院
+
+* 大学での研究
+グラフベースのニューラルネットワークを使用して通信品質の推定を行っています
+
+論文投稿 5 件
+
+- The 34th International Conference on Information Networking (ICOIN 2020)
+  - https://ieeexplore.ieee.org/document/9016603
+
+- 2019年 インターネットアーキテクチャ研究会
+  - https://www.ieice.org/ken/paper/20190905J1pm/
+
+- 2019年 電子情報通信学会 ソサイエティ大会
+  - https://www.ieice-taikai.jp/2019society/jpn/p_pro/0815_Bpro.pdf
+
+- 2020年 電子情報通信学会総合大会
+  - https://www.ieice-taikai.jp/2020general/jpn/p_pro/0212_Bpro.pdf
+
+- 2020年 電子情報通信学会 ソサイエティ大会
+  - https://www.ieice-taikai.jp/2020society/jpn/
+
+* 受賞
+- インターネットアーキテクチャ研究会学生研究奨励賞受賞
+  - https://www.ieice.org/ken/paper/20190905J1pm/
+
+* プログラムミングスキル
+- Python
+- Shell Script(bash)
+- Emacs Lisp
+- C 言語
+- HTML,CSS
+** その他
+- Qiita に Python で作成したゲームや Web アプリを挙げてます
+  - [[https://qiita.com/taiseiyo11/items/f8096c5ff59fd20b523a][pygame でビンゴゲームを作ってみた]]
+  - [[https://qiita.com/taiseiyo11/items/48c42e25fbd29071ec46][Django で Web アプリを作ってみた]]
+
+* 習得スキル
+- AWS
+- heroku
+  - [[https://taiseiyo.herokuapp.com/][Web アプリをデプロイして公開してます]]
+    - user: taiseiyo
+    - password: welcome
+
+  - Image of Form
+    
+  # - Image of Contents of diary
+  #   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/diary.png]]
+    
