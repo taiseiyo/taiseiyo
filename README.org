@@ -48,5 +48,4 @@
   - Image of Form
     [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/form.png]]
     [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/register.png]]
-    [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/edit.png]]
-    
+    [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/delete.png]]
