@@ -54,8 +54,30 @@
 
   - Image of Form
     [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/form.png]]
+
+    column:BMCOL:
+    :PROPERTIES:
+    :BEAMER_col: 0.5                                    
+    :END:      
+    #+begin_center                                      
     [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/register.png]]
+    #+attr_latex: :width 1.1\textwidth                                                                          
+    \vspace{1truemm}
+    \hspace{13truemm}                                
+    #+end_center          
+
+    column :BMCOL:
+    :PROPERTIES:                                        
+    :BEAMER_col: 0.5                                    
+    :END:
+    #+begin_center                                      
     [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/delete.png]]
+
+    #+attr_latex: :width 1.1\textwidth                                                                          
+    \vspace{1truemm}
+    \hspace{13truemm}
+    #+end_center    
+
 
   - Image of bingo application
     [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/bingo.png]]
