@@ -52,11 +52,11 @@
       - user: bingo
       - password: welcome
 
-- *Image of Form*
-  [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/form.png]]
-  [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/register.png]]
-  [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/delete.png]]
+** *Image of Form*
+   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/form.png]]
+   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/register.png]]
+   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/delete.png]]
 
     
-- *Image of bingo application*
-  [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/bingo.png]]
+** *Image of bingo application*
+   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/bingo.png]]
