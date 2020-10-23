@@ -33,6 +33,7 @@
 * プログラムミングスキル
 - Python
 - Shell Script(bash)
+- JavaScript
 - Emacs Lisp
 - C 言語
 - HTML,CSS
