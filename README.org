@@ -6,25 +6,22 @@
 * 大学での研究
 グラフベースのニューラルネットワークを使用して通信品質の推定を行っています
 
-論文投稿 6 件
+論文投稿 7 件
 
-- The 34th International Conference on Information Networking (ICOIN 2020)
-  - https://ieeexplore.ieee.org/document/9016603
+- [[https://ieeexplore.ieee.org/document/9016603][The 34th International Conference on Information Networking (ICOIN 2020)]]
 
-- 2019 年 インターネットアーキテクチャ研究会
-  - https://www.ieice.org/ken/paper/20190905J1pm/
+- [[https://www.ieice.org/cs/icetc/][2020 International Conference on Emerging Technologies for Communications]]
 
-- 2019 年 電子情報通信学会 ソサイエティ大会
-  - https://www.ieice-taikai.jp/2019society/jpn/p_pro/0815_Bpro.pdf
+- [[https://www.ieice.org/ken/program/index.php?mode=program&tgs_regid=1b633ade4f31cd3921307d37aaae76f586a0c70bacb55ab1891aeaa215a75b4e&tgid=IEICE-IA&layout=&lang=eng][2020 Technical Committee on Internet Architecture (IA)]]
 
-- 2020 年 電子情報通信学会総合大会
-  - https://www.ieice-taikai.jp/2020general/jpn/p_pro/0212_Bpro.pdf
+- [[https://www.ieice.org/ken/paper/20190905J1pm/][2019 年 インターネットアーキテクチャ研究会]]
 
-- 2020 年 電子情報通信学会 ソサイエティ大会
-  - [[https://www.ieice-taikai.jp/2020society/jpn/p_pro/0828_Bpro.pdf]]
+- [[https://www.ieice-taikai.jp/2019society/jpn/p_pro/0815_Bpro.pdf][2019 年 電子情報通信学会 ソサイエティ大会]]
 
-- 2020 年 インターネットアーキテクチャ研究会 第 2 回研究会
-  - https://www.ieice.org/cs/ia/jpn/
+- [[https://www.ieice-taikai.jp/2020general/jpn/p_pro/0212_Bpro.pdf][2020 年 電子情報通信学会総合大会]]
+
+- [[https://www.ieice-taikai.jp/2020society/jpn/p_pro/0828_Bpro.pdf][2020 年 電子情報通信学会 ソサイエティ大会]]
+
 
 * 受賞
 - インターネットアーキテクチャ研究会学生研究奨励賞受賞
