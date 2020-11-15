@@ -1,5 +1,6 @@
 * 個人データ
 - ID : taiseiyo
+- Qiita ID: taiseiyo11
 - 職業 : 学生
 - 大学名 : 関西学院大学院
 
