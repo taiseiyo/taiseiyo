@@ -24,11 +24,11 @@
 - [[https://www.ieice.org/ken/paper/20190905J1pm/][2019 年 インターネットアーキテクチャ研究会]]
 
 * 受賞
-- 2020 International Conference on Emerging Technologies for Communications(共著)
-  - Student Presentation Award 受賞
-
 - インターネットアーキテクチャ研究会学生研究奨励賞受賞
   - https://www.ieice.org/ken/paper/20190905J1pm/
+
+- 2020 International Conference on Emerging Technologies for Communications(共著者)
+  - Student Presentation Award 受賞
 
 * プログラムミングスキル
 - Python
