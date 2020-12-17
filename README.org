@@ -23,7 +23,9 @@
 
 - [[https://www.ieice.org/ken/paper/20190905J1pm/][2019 年 インターネットアーキテクチャ研究会]]
 
-* 受賞
+* 受賞歴
+- 2020 年富士通 Hack the Future 最優秀賞受賞
+
 - インターネットアーキテクチャ研究会学生研究奨励賞受賞
   - https://www.ieice.org/ken/paper/20190905J1pm/
 
