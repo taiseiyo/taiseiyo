@@ -32,6 +32,7 @@
 - 2020 International Conference on Emerging Technologies for Communications(共著者)
   - Student Presentation Award 受賞
 
+-  2020 年ソフトバンク AI 人材育成スカラーシップ奨学金受賞
 * プログラムミングスキル
 - Python
 - Shell Script(bash)
