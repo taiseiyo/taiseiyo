@@ -11,7 +11,7 @@
 
 - [[https://ieeexplore.ieee.org/document/9016603][The 34th International Conference on Information Networking (ICOIN 2020)]]
 
-- [[https://www.ieice.org/cs/icetc/][2020 International Conference on Emerging Technologies for Communications]]
+- [[https://www.ieice.org/cs/icetc/doc/Short_Presentation_program.pdf][2020 International Conference on Emerging Technologies for Communications]]
 
 - [[https://www.ieice.org/ken/paper/20201001qCAs/eng/][2020 Technical Committee on Internet Architecture (IA)]]
 
