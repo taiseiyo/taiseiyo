@@ -35,6 +35,7 @@
 - Python
 - Shell Script(bash)
 - JavaScript
+- Google Apps Script
 - Emacs Lisp
 - C 言語
 - HTML,CSS
