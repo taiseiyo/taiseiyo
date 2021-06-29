@@ -51,20 +51,5 @@
 
 * 習得スキル
 - AWS
-- heroku
-  - [[https://taiseiyo.herokuapp.com/][Web アプリをデプロイして公開してます]]
-    - 日記アプリにログイン
-      - user: taiseiyo
-      - password: welcome
-    - ビンゴアプリにログイン
-      - user: bingo
-      - password: welcome
+- Docker
 
-** *Image of Form*
-   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/form.png]]
-   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/register.png]]
-   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/delete.png]]
-
-    
-** *Image of bingo application*
-   [[https://github.com/taiseiyo/taiseiyo/blob/master/figure/bingo.png]]
