@@ -19,7 +19,7 @@
 
 - [[https://www.ieice.org/cs/icetc/doc/Short_Presentation_program.pdf][2020 International Conference on Emerging Technologies for Communications (ICETC 2020)]]
 
-- [[https://www.ieice.org/ken/paper/20201001qCAs/eng/][2020 Technical Committee on Internet Architecture (IA)]]
+- [[https://www.ieice.org/ken/paper/20201001qCAs/eng/][2020 Technical Committee on Internet Architecture (IA 2020)]]
 
 - [[https://www.ieice-taikai.jp/2020society/jpn/p_pro/0828_Bpro.pdf][2020 年 電子情報通信学会 ソサイエティ大会]]
 
