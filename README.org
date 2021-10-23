@@ -9,7 +9,9 @@
 - グラフベースのニューラルネットワークを応用した通信品質の推定
 - Q 学習を応用したグラフ上の移動モデルの効率化
 
-*論文投稿 9 件*
+*論文投稿 10 件*
+
+- [[https://www.ieice.org/cs/icetc/index.html][2021 International Conference on Emerging Technologies for Communications (ICETC2021)]]
 
 - [[http://www.ieice-taikai.jp/2020society/jpn/p_program.html][2021 年 電子情報通信学会 ソサイエティ大会(シンポジウムセッション)]]
 
