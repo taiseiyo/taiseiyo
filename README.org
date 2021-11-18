@@ -9,9 +9,11 @@
 - グラフベースのニューラルネットワークを応用した通信品質の推定
 - Q 学習を応用したグラフ上の移動モデルの効率化
 
-*論文投稿 10 件*
+*論文投稿 11 件*
 
-- [[https://www.ieice.org/cs/icetc/index.html][2021 International Conference on Emerging Technologies for Communications (ICETC2021)]]
+- [[http://icoin.org/main.php][The 36th International Conference on Information Networking (ICOIN 2022)]]
+
+- [[https://www.ieice.org/ken/paper/20211217tCHH/][インターネットアーキテクチャ研究会（IA 2021）]]
 
 - [[http://www.ieice-taikai.jp/2020society/jpn/p_program.html][2021 年 電子情報通信学会 ソサイエティ大会(シンポジウムセッション)]]
 
@@ -46,11 +48,6 @@
 - Emacs Lisp
 - C 言語
 - HTML,CSS
-** その他
-- Qiita に Python で作成したゲームや Web アプリを挙げてます
-  - [[https://qiita.com/taiseiyo11/items/f8096c5ff59fd20b523a][pygame でビンゴゲームを作ってみた]]
-  - [[https://qiita.com/taiseiyo11/items/48c42e25fbd29071ec46][Django で Web アプリを作ってみた]]
-
 * 習得スキル
 - AWS
 - Docker
